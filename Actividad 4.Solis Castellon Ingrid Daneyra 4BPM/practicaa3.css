@@ -1,0 +1,32 @@
+/*Este es comentario en CSS*/
+/*Solis Castellon Ingrid Daneyra     Grupo:4BPM*/
+/*DAW                                Fecha:09/02/2024*/
+/*A continuacion le aplicamos CSS a la actividad (practicaa3.html) desde un archivo CSS (practicaa3.css)*/
+body{
+    background-color: aqua;
+}
+#violeta{
+    width: 150px;
+    height: 150px ;
+}
+h1{
+    color: deeppink;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: left;
+}
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+h4{
+    color: blueviolet;
+    text-align: right;
+}
+h6{
+    color: blue;
+    text-align: right;
+    font-style: italic;
+} 

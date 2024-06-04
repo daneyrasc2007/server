@@ -1,0 +1,44 @@
+/*Este es comentario en CSS*/
+/*Solis Castellon Ingrid Daneyra     Grupo:4BPM*/
+/*DAW                                Fecha:21/02/2024*/
+/*A continuacion le aplicamos CSS a la actividad (practicaa8.html) desde un archivo CSS (practicaa8.css)*/
+body{
+    background-color: aliceblue;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+h1{
+    color: deeppink;
+    font-family: fantasy;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    font-family: cursive;
+    text-align: center;
+}
+h3{
+    color: darkmagenta;
+    text-align: center;
+}
+h4{
+    color: lightseagreen;
+    text-align: left;
+}
+h5{
+    color: fuchsia;
+    text-align: right;
+}
+table{
+    width: 40%;
+    height: 50%;
+    text-align:center;
+    background-color:antiquewhite;
+    border: 6px;
+}
+h6{
+    color: blue;
+    text-align: right;
+}

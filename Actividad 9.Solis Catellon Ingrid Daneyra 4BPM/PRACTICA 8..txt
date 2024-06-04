@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html>
+<head>
+<title<PRACTICA 9 Dia de la Amistad</title>
+</head>
+<body background="D:\DAW\Actividad 9.Solis Catellon Ingrid Daneyra 4BPM\IMAGENES\amistad.jpg">
+<center>
+<h1><font face="helvetica" color="#FE07FE">DIA INTERNACIONAL DE LA AMISTAD</font></h1>
+<h2><font face="courier new" color="#BD19F1">"30 de JULIO"</font></h2>
+<img src="D:\DAW\Actividad 9.Solis Catellon Ingrid Daneyra 4BPM\IMAGENES\forever.jpg"/>
+</center>
+
+<font face="optima" color="black">
+<P ALIGN=LEFT>El Día Internacional de la Amistad con la idea de que la amistad entre<br>
+los pueblos,los países, las culturas y las personas puede inspirar iniciativas de paz y presenta una oportunidad<br>
+de tender puentes entre las comunidades.</P></font>
+

@@ -1,0 +1,35 @@
+/*Este es comentario en CSS*/
+/*Solis Castellon Ingrid Daneyra     Grupo:4BPM*/
+/*DAW                                Fecha:13/02/2024*/
+/*A continuacion le aplicamos CSS a la actividad (practicaa5.html) desde un archivo CSS (practicaa5.css)*/
+body{
+    background-color: aliceblue;
+}
+H1{
+    color: blueviolet;
+    text-align: center;
+}
+H3{
+    color: rgb(241, 7, 7);
+    text-align: left;
+}
+#historia{
+    width: 150px;
+    height: 150px;
+}
+#historia{
+    width: 150px;
+    height: 150px;
+}
+h2{
+    color: deeppink;
+}
+h4{
+    color: darkcyan;
+    text-align: right;
+}
+h6{
+    color: blue;
+    text-align: right ;
+}
+

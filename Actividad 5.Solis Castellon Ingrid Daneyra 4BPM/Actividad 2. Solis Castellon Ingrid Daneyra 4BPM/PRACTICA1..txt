@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 1 En HTML Mostrar mi Portada</title>
+</head>
+<body>
+<center>
+<h1><font face="helvetica" color="Purple">CETis 156</font></h1>
+<h2><font face="courier new" color="Navy">"Centros de Estudios Tecnologicos Industriales y de Servicios No.156 Gral. Felipe Angeles Ramirez"</font></h2>
+<img src="./ceTis156.jpg"/>
+
+<h4><font face="calibri" color="teal">Carreras:</h4>
+<h4><font face="calibri" color="teal">"Programacion" </h4>
+<h4><font face="calibri" color="teal">"Electronica" </h4>
+</center>
+
+<h5><Font face="calibri" color="maroon">Av. Del Parque S/N Mesa de Otay</font></h5>
+<h5><font face="calibri" color="blue">C.P. 22510 Tijuana B.C.</font></h5>
+<table align="center">
+<tr>
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%2012.Solis%20Castellon%20Ingrid%20Daneyra%204BPM/Practica%2011.html"><font color="pink">menu</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%203.Solis%20Castellon%20Ingrid%20Daneyra%204BPM/PRACTICA%202.HTML"><font color="yellow">siguiente</font></a></h3></b></td>
+</tr>
+</table>
+
+<h6 align=right><font face="calibri" color="blue"> Alumn@: Solis Castellon Ingrid Daneyra</font></h6>
+<h6 align=right><font face="calibri" colo r="blue">Grupo: 4BPM Materia:Desarrollo de Aplicaciones Web</font></h6>
+<hr>
+</body>
+</html >
